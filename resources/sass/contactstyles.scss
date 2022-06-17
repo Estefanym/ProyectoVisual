@@ -1,0 +1,10 @@
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
+@import "../../node_modules/bootstrap/scss/mixins";
+/*Variables sass*/
+$navbar-color: white;
+$navbar-brand-color:white;
+$navbar-hover-color: rgba(22, 83, 137, 0.749);
+$bs-navbar-brand-hover-color: rgba(22, 83, 137, 0.749);
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
